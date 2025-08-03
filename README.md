@@ -54,8 +54,7 @@ This project features a dynamic **Power BI dashboard** that analyzes key busines
 ## 🔗 Connect With Me
 
 - 📧 Email: borhadeswaraj01@gmail.com  
-- 🖥️ GitHub: [github.com/SwarajBorhade](https://github.com/SwarajBorhade)  
-- 💼 LinkedIn: [linkedin.com/in/swarajborhade](https://www.linkedin.com/in/swarajborhade)
+- 💼 LinkedIn: [[linkedin.com/in/swarajborhade](https://www.linkedin.com/in/swarajborhade)](https://www.linkedin.com/in/swaraj-borhade-921a411a4/)
 
 ---
 
