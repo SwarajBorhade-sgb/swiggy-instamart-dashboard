@@ -8,8 +8,8 @@ This project features a dynamic **Power BI dashboard** that analyzes key busines
 
 ## 🖼️ Dashboard Preview
 
-![Swiggy Instamart Dashboard Preview](<img width="1015" height="588" alt="Screenshot 2025-08-03 234544" src="https://github.com/user-attachments/assets/0f6977e4-399b-4555-85b1-b4b4abeb5766" />
-)
+![Swiggy Instamart Dashboard Preview]<img width="1015" height="588" alt="Screenshot 2025-08-03 234544" src="https://github.com/user-attachments/assets/1164401a-5674-411d-896c-17a39282b65a" />
+
 
 ---
 
